@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://queeyiech.queer-code.org/sitemap.xml
